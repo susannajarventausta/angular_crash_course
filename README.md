@@ -6,6 +6,10 @@ This project was made while following a [Traversy Media tutorial](https://www.yo
 
 The main goal of the project is to learn how to use Angular for WEB frontend development.
 
+## Dev environment
+
+To run the app correctly start up Angular dev server and json-server. Instructions below.
+
 ## Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
@@ -21,3 +25,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## JSON Server
 
 [JSON Server](https://www.npmjs.com/package/json-server) was used for mocking backend.
+
+### Run
+
+Run `npm run server` to start json-server.
